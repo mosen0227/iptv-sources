@@ -15,4 +15,4 @@
 | 9 | 黑龙江卫视 | IPv4 直链 | <http://125.43.247.245:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 10 | 魅力音乐 | IPv4 直链 | <http://125.43.247.245:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Apr 14 2026 14:04:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 14 2026 17:19:11 GMT+0000 (Coordinated Universal Time)**
